@@ -1,6 +1,9 @@
 body {
   font-family: "Raleway", sans-serif;
 }
+.img-fluid{
+  width: 180px;
+}
 
 /* Hero Section */
 
