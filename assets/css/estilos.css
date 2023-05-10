@@ -45,9 +45,14 @@ body {
   background-size: contain;
   background-position: center;
 }
-
+.text-h{
+  height: 90px;
+}
 /* Contacto */
 
+.bg-footer{
+  background-color: #373a3c;
+}
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
